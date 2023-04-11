@@ -34,14 +34,14 @@
 
 },
   "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"tips mod 1","desc":"As of 2023, Gb has released its latest application that promises to revolutionize the way people interact with their devices. Gb","photo":"https://iili.io/HkDi2WJ.jpg"},
+  {"title":"advance pack 2","desc":"In 2023, Gb will roll out its newest software, which is expected to completely change how people use their gadgets. Gb","photo":"https://iili.io/HkDiHDg.jpg"},
+  {"title":"how to use this app 3","desc":"a technology company known for its innovative solutions, has once again delivered a cutting-edge application that combines advanced features with ease of use. In this article, we will explore the key features of Gb's latest 2023 application and how it can benefit users.","photo":"https://iili.io/HkDi9OF.jpg"},
+  {"title":"helper mod 4","desc":"An organization in the technology industry renowned for its creative ideas has once more produced a cutting-edge application that combines sophisticated functionality with usability. We will examine the main components of Gb's most recent 2023 application and how it can help consumers in this article.","photo":"https://iili.io/HkDidxa.jpg"},
+  {"title":"advice pack 5","desc":"One of the most exciting features of Gb's latest application is its intuitive user interface. The application is designed to be user-friendly","photo":"https://iili.io/HkDi3iv.jpg"},
+  {"title":"tips mod 6","desc":"Having basic navigation that is straightforward for consumers to utilize and makes it simple to access the numerous functions. Whether you're a seasoned computer user or just getting started, Gb's newest application is made to accommodate all users.","photo":"https://iili.io/HkDiKfR.jpg"},
+  {"title":"advance pack 7","desc":"Another standout feature of Gb's latest application is its versatility. The application can be used across multiple devices, including smartphones, ","photo":"https://iili.io/HkDiqUN.jpg"},
+  {"title":"how to use this app 8","desc":"tablets, and computers. This makes it an excellent choice for individuals who work on the go or those who require access to their devices from multiple locations.","photo":"https://iili.io/HkDiflp.jpg"}
 
    ]
  
